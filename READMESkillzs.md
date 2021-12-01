@@ -32,8 +32,7 @@
 
 - Making a full-stack site that allows users to manage a common dataset about a particular domain.
 - Making a full-stack site that uses HTML, CSS, JavaScript, Python+Flask and MongoDB.
-- To design and build a candidate searchable database for businesses to identify potential new Employees for their open positions.
-- To utilize python, flask, mongodb, heroku, and other appropriate development technology. 
+- To design and build a candidate searchable database for businesses to identify potential new Employees for their open positions. 
 - To make a visually pleasing experience for both candidates and businesses.
 - Includes easy to use registry and profile page to hold the correct amount of information so the search criteria is accurate. 
 
@@ -41,11 +40,20 @@
 
 **Visitor goals:**
 
+- Clearly understand the reason for the site and the benefits you can get from using it.
+- Register and upload their resume and build a profile for businesses to search for them and identify them for a suitable vacancy.
+- To enable their profile to be accessible by 1000's of companies looking to hire.
+- To be able to store details around there resume and skillset which is easily updatable.
+- To view a list of vacancies which may be suitable to them
 
+**Business user goals:**
 
-**Member goals:**
-
-
+- To have the ability to view candidate profiles
+- Easily searchable parameters to target the correct skills and profiles of available candidates
+- Match candidate to there available vacancies
+- To be visually impressed with the setup and ease of use of the site
+- To list open vacancies for candidates and visitors to view
+- To search profiles by job title, primary skils, and secondary skills
 
 **Admin goals:**
 
