@@ -32,6 +32,10 @@
 
 - Making a full-stack site that allows users to manage a common dataset about a particular domain.
 - Making a full-stack site that uses HTML, CSS, JavaScript, Python+Flask and MongoDB.
+- To design and build a candidate searchable database for businesses to identify potential new Employees for their open positions.
+- To utilize python, flask, mongodb, heroku, and other appropriate development technology. 
+- To make a visually pleasing experience for both candidates and businesses.
+- Includes easy to use registry and profile page to hold the correct amount of information so the search criteria is accurate. 
 
 ### 1.2 User stories
 
