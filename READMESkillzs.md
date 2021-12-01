@@ -57,7 +57,10 @@
 
 **Admin goals:**
 
-
+- Able to access and view all profiles
+- ability to change search parameters which can be used to search for profiles
+- Ability to list vacancies for potential candidates
+- ability to delet profiles if they have been inactive for 6 months in line with potential GDPR laws
 
 ### 1.3 Design
 
