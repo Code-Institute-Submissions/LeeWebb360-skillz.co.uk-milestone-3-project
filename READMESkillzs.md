@@ -32,8 +32,8 @@
 
 - Making a full-stack site that allows users to manage a common dataset about a particular domain.
 - Making a full-stack site that uses HTML, CSS, JavaScript, Python+Flask and MongoDB.
-- To design and build a candidate searchable database for businesses to identify potential new Employees for their open positions. 
-- To make a visually pleasing experience for both candidates and businesses.
+- To design and build a searchable database for customers to identify traders for the home, or business needs. 
+- To make a visually pleasing experience for both users and businesses.
 - Includes easy to use registry and profile page to hold the correct amount of information so the search criteria is accurate. 
 
 ### 1.2 User stories
@@ -41,26 +41,26 @@
 **Visitor goals:**
 
 - Clearly understand the reason for the site and the benefits you can get from using it.
-- Register and upload their resume and build a profile for businesses to search for them and identify them for a suitable vacancy.
+- Register and build out a profile for businesses and users to search for them and identify them for a suitable need or service.
 - To enable their profile to be accessible by 1000's of companies looking to hire.
-- To be able to store details around there resume and skillset which is easily updatable.
-- To view a list of vacancies which may be suitable to them
+- To be able to store details around there service offerings and trade skills which is easily updatable.
+- To view a list of Traders and services which may be suitable to visitors
 
 **Business user goals:**
 
-- To have the ability to view candidate profiles
-- Easily searchable parameters to target the correct skills and profiles of available candidates
-- Match candidate to there available vacancies
+- To have the ability to view trader profiles
+- Easily searchable parameters to target the correct services and profiles of available Traders
+- Match traders to users sevice requests
 - To be visually impressed with the setup and ease of use of the site
-- To list open vacancies for candidates and visitors to view
-- To search profiles by job title, primary skils, and secondary skills
+- To list services offered for visitors to view
+- To search profiles by trade, services, and location
 
 **Admin goals:**
 
 - Able to access and view all profiles
-- ability to change search parameters which can be used to search for profiles
-- Ability to list vacancies for potential candidates
-- ability to delet profiles if they have been inactive for 6 months in line with potential GDPR laws
+- ability to change search parameters which can be used to search for traders and services
+- Ability to list services 
+- ability to delete profiles if they have been inactive for 6 months in line with potential GDPR laws
 
 ### 1.3 Design
 
@@ -91,7 +91,7 @@
 
 - An attractive and simple layout with consistency.
 - Simple navigation throughout the website by using the navigation bar.
-- Showing the recipes .simple and clearly
+- Showing the traders and services. Simple and clearly
 
 #### 2. General
 
